@@ -25,6 +25,6 @@
     background-color: #1d4333;
 }
 html {
-    background-image: url("./BackgroundImage");
+    background-image: url("images/BackgroundImage.jpg");
     background-size: cover;
 }
