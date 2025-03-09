@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cooper Tackett</title>
+    <link rel="stylesheet" type="text/css" href="./Resources/CSS/style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Welcome to my website!</h1>
+        <div class="nav">
+            <a href="index.php">Home</a>
+            <a href="about.php">About</a>
+            <a href="contact.php">Contact</a>
+    </div>
+    <div class="about">
+        <h2>About Me!</h2>
+        <p>My name is Cooper Tackett. I am 21 years old and I am originally from Aliso Viejo, CA. I spent 
+            almost 4 years in the US Army as a 35F All-Source Intelligence Analyst. I am currently a student 
+            at the University of Wisconsin - Madison studying Computer Science. I love the outdoors and getting 
+            out and exploring the backcountry. I hope to visit as many Naitonal Parks in the US as I can but ones 
+            I am most excited to see are Glacier Naitonal Park, Grand Teton Naitonal Park, and Yellowstone 
+            National Park. I also love taking pcitures of any outdoor location I get to visit and below are 
+            some of my favorite photos from my outdoor adventures. 
+        </p>
+    </div>
+    <div class="photos">
+        <h2>Photos</h2>
+        
+    </div>
+</body>
+</html>
